@@ -1,0 +1,14 @@
+D:\New folder\Two-Sum\C#\TWO_SUM\obj\Debug\net9.0\TWO_SUM.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Two-Sum\C#\TWO_SUM\obj\Debug\net9.0\TWO_SUM.AssemblyInfoInputs.cache
+D:\New folder\Two-Sum\C#\TWO_SUM\obj\Debug\net9.0\TWO_SUM.AssemblyInfo.cs
+D:\New folder\Two-Sum\C#\TWO_SUM\obj\Debug\net9.0\TWO_SUM.csproj.CoreCompileInputs.cache
+D:\New folder\Two-Sum\C#\TWO_SUM\bin\Debug\net9.0\TWO_SUM.exe
+D:\New folder\Two-Sum\C#\TWO_SUM\bin\Debug\net9.0\TWO_SUM.deps.json
+D:\New folder\Two-Sum\C#\TWO_SUM\bin\Debug\net9.0\TWO_SUM.runtimeconfig.json
+D:\New folder\Two-Sum\C#\TWO_SUM\bin\Debug\net9.0\TWO_SUM.dll
+D:\New folder\Two-Sum\C#\TWO_SUM\bin\Debug\net9.0\TWO_SUM.pdb
+D:\New folder\Two-Sum\C#\TWO_SUM\obj\Debug\net9.0\TWO_SUM.dll
+D:\New folder\Two-Sum\C#\TWO_SUM\obj\Debug\net9.0\refint\TWO_SUM.dll
+D:\New folder\Two-Sum\C#\TWO_SUM\obj\Debug\net9.0\TWO_SUM.pdb
+D:\New folder\Two-Sum\C#\TWO_SUM\obj\Debug\net9.0\TWO_SUM.genruntimeconfig.cache
+D:\New folder\Two-Sum\C#\TWO_SUM\obj\Debug\net9.0\ref\TWO_SUM.dll
