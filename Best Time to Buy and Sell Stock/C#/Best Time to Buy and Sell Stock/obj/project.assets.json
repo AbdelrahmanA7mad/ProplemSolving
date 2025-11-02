@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proplem-Solivng\\Two-Sum\\C#\\TWO_SUM\\TWO_SUM.csproj",
-      "projectName": "TWO_SUM",
-      "projectPath": "D:\\Proplem-Solivng\\Two-Sum\\C#\\TWO_SUM\\TWO_SUM.csproj",
+      "projectUniqueName": "D:\\Proplem-Solivng\\Best Time to Buy and Sell Stock\\C#\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj",
+      "projectName": "Best Time to Buy and Sell Stock",
+      "projectPath": "D:\\Proplem-Solivng\\Best Time to Buy and Sell Stock\\C#\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj",
       "packagesPath": "C:\\Users\\Abdo\\.nuget\\packages\\",
-      "outputPath": "D:\\Proplem-Solivng\\Two-Sum\\C#\\TWO_SUM\\obj\\",
+      "outputPath": "D:\\Proplem-Solivng\\Best Time to Buy and Sell Stock\\C#\\Best Time to Buy and Sell Stock\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
