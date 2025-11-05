@@ -2,15 +2,15 @@
 {
     private static void Main(string[] args)
     {
-        int[] arr = {0,0 };
+            int[] arr = {0,0 };
 
 
-        int[] newarr = productExceptSelf(arr);
+            int[] newarr = productExceptSelf(arr);
 
-        for (int i = 0; i < newarr.Length; i++)
-        {
-            Console.WriteLine(newarr[i]);
-        }
+            for (int i = 0; i < newarr.Length; i++)
+            {
+                Console.WriteLine(newarr[i]);
+            }
 
     }
     public static int[] productExceptSelf(int[] nums)
